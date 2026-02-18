@@ -2,6 +2,7 @@ this is a readme file written by zanouda khalida and hanifa sekkai
 # Simple Task List   
 
 A command-line task manager written in Python. Manage your homework or study tasks with persistent storage in a JSON file.
+//Tasks are stored in tasks.json automatically.
 
 ## Features 
 - Add new tasks
