@@ -1,0 +1,18 @@
+[
+    {
+        "description": "Choose an article to read",
+        "done": false
+    },
+    {
+        "description": "finish python program",
+        "done": true
+    },
+    {
+        "description": "Prepare a poster",
+        "done": false
+    },
+    {
+        "description": "Prepare a poster",
+        "done": true
+    }
+]
